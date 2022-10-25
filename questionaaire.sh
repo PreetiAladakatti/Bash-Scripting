@@ -2,6 +2,7 @@
 #!/bin/bash
 
 echo -e "\n~~ Questionnaire ~~\n"
+#Title of the project
 
 QUESTION1="What's your name?"
 QUESTION2="Where are you from?"
